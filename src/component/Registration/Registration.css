@@ -1,0 +1,19 @@
+.Registration_contaier {
+  max-width: 320px;
+  background-color: #d1eef9;
+  padding: 50px;
+  margin: auto;
+  border-radius: 5%;
+}
+.Registration_contaier > h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.Registration_contaier > form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.submit_btn {
+  background-color: rgb(8, 100, 139) !important;
+}
